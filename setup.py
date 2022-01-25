@@ -24,7 +24,6 @@ setup(
     python_requires='>=3.6',                # Minimum version requirement of the package
     py_modules=["bajra"],                   # Name of the python package
     install_requires=[
-        "psycopg2==2.7.5",
         "PyMySQL==0.9.2",
         "psycopg2-binary==2.9.3"
     ]                                       # Install other dependencies if any
