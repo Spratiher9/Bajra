@@ -113,4 +113,4 @@ print(row)  # None, Bajra has perfomed a rollback due to a exception.
 
 If you have an idea you want to contribute in Bajra, clone the repo and raise a pull request with your feature!
 
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=flat-square)
+![Made with love in India](https://madewithlove.now.sh/in?colorB=%23f9861a&template=flat-square)
