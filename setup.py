@@ -11,7 +11,7 @@ setup(
     author_email="spratiher9@gmail.com",
     description="A efficient raw SQL ORM",
     url="https://github.com/Spratiher9/Bajra",
-    # download_url="https://github.com/LordFeratum/Catersequel/archive/0.3.1.tar.gz",
+    download_url="https://github.com/Spratiher9/Bajra/archive/refs/tags/v0.0.1.tar.gz",
     keywords=['sql', 'orm', 'raw-sql', 'python', 'postgres', 'mysql', 'database'],
     packages=find_packages(),
     long_description=long_description,      # Long description read from the the readme file
